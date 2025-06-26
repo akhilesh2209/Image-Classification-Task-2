@@ -1,5 +1,18 @@
 # 🧠 Deep Learning Task - 2 (CodTech Internship)
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: WUNA AKHILESH
+
+*INTERN ID*: CT04DF985
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+
 ## ✅ Objective
 Build a deep learning model for **image classification** using **TensorFlow** on the MNIST handwritten digit dataset.
 
